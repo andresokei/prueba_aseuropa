@@ -1,6 +1,6 @@
 # Prueba Técnica – Aseuropa
 
-Este repositorio contiene la solución de la prueba técnica solicitada por Aseuropa, organizada en dos partes:
+Este repositorio contiene la solución de la prueba técnica solicitada, organizada en dos partes:
 
 ---
 
